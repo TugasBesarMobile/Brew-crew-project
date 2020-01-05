@@ -1,6 +1,6 @@
 # brew_crew
 
-A new Flutter project.
+aplikasi brew crew flutter. language : dart
 
 ## Getting Started
 
