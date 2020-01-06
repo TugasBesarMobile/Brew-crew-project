@@ -1,8 +1,8 @@
 # brew_crew
 
-aplikasi brew crew flutter. language : dart
+aplikasi brew crew flutter. language : dart.
 
-## Nama Kelompok
+## Nama Kelompok :
 Rizal Firdaus(013)</br>
 Cici Paramita(031)</br>
 Evanson Sihotang(046)</br>
